@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="_image" type="id">R</item>
+    <item name="_title" type="id">R</item>
+    <item name="_imageRecyclerView" type="id">R</item>
+    <item name="_imageDetail" type="id">R</item>
+    <item name="_imageTitle" type="id">R</item>
+    <item name="_imageDesc" type="id">R</item>
+</resources>
